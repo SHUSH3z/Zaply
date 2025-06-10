@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa Gerado</name>
+
+      <Placemark>
+        <name>1</name>
+        <description><![CDATA[Rua Jose De Peixoto Lacerda Werneck 25, Curitiba, Curitiba - PR, 81650-060, Brazil<br/><img src="1.jpg" width="300"/>]]></description>
+        <Point><coordinates>-49.245333,-25.485306</coordinates></Point>
+      </Placemark>
+		
+      <Placemark>
+        <name>2</name>
+        <description><![CDATA[Avenida Marechal Floriano Peixoto 6654, Curitiba, Curitiba - PR, 81670-000, Brazil<br/><img src="2.jpg" width="300"/>]]></description>
+        <Point><coordinates>-49.245556,-25.485694</coordinates></Point>
+      </Placemark>
+		
+      <Placemark>
+        <name>3</name>
+        <description><![CDATA[Rua Maria Licia Barauce Ayres 101, Curitiba, Curitiba - PR, 81650-262, Brazil<br/><img src="3.jpg" width="300"/>]]></description>
+        <Point><coordinates>-49.245194,-25.485056</coordinates></Point>
+      </Placemark>
+		
+    <Placemark>
+      <name>Rota</name>
+      <LineString>
+        <coordinates>
+-49.245333,-25.485306,0 -49.245556,-25.485694,0 -49.245194,-25.485056,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+</Document></kml>
